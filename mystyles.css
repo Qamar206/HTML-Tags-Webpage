@@ -1,0 +1,35 @@
+.HTML{
+    p{  
+        text-align: center;
+        color: rgb(5, 5, 5);
+        font-size: 25px;
+    }
+}
+.html1{
+    p{
+        text-align: center;
+        color: rgb(5, 5, 5);
+        font-size: 25px;
+    }
+}
+
+.BoilerPlateCode{
+    p{
+        text-align: center;
+        font-size: 25px;
+    }
+}
+.HTML-Tag{
+    p{
+        text-align: center;
+        font-size: 25px;
+    }
+}
+.button-of-basic-html-page-link{
+    text-align: center;
+    
+}
+
+.go-to-html-tags-page{
+    text-align: center;
+}
